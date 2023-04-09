@@ -6,15 +6,15 @@
   background-color: antiquewhite;
 }
 .background{
-  width: 50%;
-  height: 100vh;
-  position: relative; left: 700px;
+  width: 40%;
+  height: 90vh;
+  position: relative; left: 800px;
 
 }
 .AboutMe{
   font-weight: bold;
   position:fixed; left: 60px; top: 100px;
-  font-size: larger;
+  font-size: x-large;
 }
 div ul li {
  list-style-type: none; 
@@ -23,12 +23,12 @@ div ul li {
 .Tech{
   font-weight: bold;
   position:fixed; left: 60px; top: 300px;
-  font-size: larger;
+  font-size: x-large;
 }
 .Core{
   font-weight: bold;
   position:fixed; left: 60px; top: 500px;
-  font-size: larger;
+  font-size: x-large;
 }
 .AboutMeParagraph{
   font-weight:500;
