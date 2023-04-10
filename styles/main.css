@@ -4,7 +4,6 @@
   font-family: sans-serif;
   color: lightpink ;
   background-color: antiquewhite;
-  overflow:scroll
 }
 .background{
   width: 50%;
@@ -13,10 +12,9 @@
 }
 .Story{
   font: weight 100px;
-  font-size:large;
+  font-size:smaller;
   width: 60%;
   position: relative; left:250px; top: 100px;
-  overflow: scroll
 }
 .Home{
   font-weight: bold;
