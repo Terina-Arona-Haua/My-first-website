@@ -5,16 +5,10 @@
   color: lightpink ;
   background-color: antiquewhite;
 }
-.background{
-  width: 50%;
-  height: 80vh;
-  position: relative; left: 500px;
-}
-.Story{
-  font: weight 300px;
-  font-size:medium;
-  width: 60%;
-  overflow: auto;
+.AboutMe{
+  font: weight 100px;
+  font-size:smaller;
+  width: 100%;
   position: relative; left:250px; top: 100px;
 }
 .Home{
@@ -40,4 +34,15 @@ div ul li {
   font-weight: bold;
   position:fixed; left: 500px; top: 10px;
   font-size: larger;
+}
+.margin{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.Rusty{
+  width: 80%;
+  height: 80vh;
+  position: relative; left: 500px;
 }
