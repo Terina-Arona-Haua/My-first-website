@@ -16,6 +16,7 @@
   font-size:large;
   width: 60%;
   position: relative; left:250px; top: 100px;
+  overflow: scroll
 }
 .Home{
   font-weight: bold;
