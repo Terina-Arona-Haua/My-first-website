@@ -13,7 +13,7 @@
 }
 .AboutMe{
   font-weight: bold;
-  position:fixed; left: 60px; top: 300px;
+  position:fixed; left: 60px; top: 200px;
   font-size: x-large;
 }
 div ul li {
@@ -22,12 +22,12 @@ div ul li {
 }
 .Tech{
   font-weight: bold;
-  position:fixed; left: 60px; top: 500px;
+  position:fixed; left: 60px; top: 300px;
   font-size: x-large;
 }
 .Core{
   font-weight: bold;
-  position:fixed; left: 60px; top: 700px;
+  position:fixed; left: 60px; top: 400px;
   font-size: x-large;
 }
 .AboutMeParagraph{
