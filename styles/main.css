@@ -40,3 +40,9 @@ div ul li {
   position:fixed; left: 500px; top: 10px;
   font-size: larger;
 }
+.margin{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
