@@ -1,0 +1,17 @@
+.Home{
+  font-weight: bold;
+  position:fixed; left: 900px; top: 10px;
+  font-size: larger;
+}
+.Tech{
+  font-weight: bold;
+  position:fixed; left: 1090px; top: 10px;
+  font-size: larger;
+}
+.Core{
+  font-weight: bold;
+  margin-top: 0%;
+  margin-left: 90%;
+  position:relative;
+  font-size: larger;
+}
