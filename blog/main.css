@@ -24,58 +24,64 @@
 
 .SprintOneHeader{
   font-weight: bold;
-  position:fixed; left: 60px; top: 60px;
+  position:fixed; left: 300px; top: 60px;
   font-size: x-large;
 }
 .SprintTwoHeader{
   font-weight: bold;
-  position:fixed; left: 60px; top: 210px;
+  position:fixed; left: 300px; top: 210px;
   font-size: x-large;
 }
 .SprintThreeHeader{
   font-weight: bold;
-  position:fixed; left: 60px; top: 360px;
+  position:fixed; left: 300px; top: 360px;
   font-size: x-large;
 }
 .SprintFourHeader{
   font-weight: bold;
-  position:fixed; left: 60px; top: 510px;
+  position:fixed; left: 300px; top: 510px;
   font-size: x-large;
 }
 .SprintFiveHeader{
   font-weight: bold;
-  position:fixed; left: 60px; top: 660px;
+  position:fixed; left: 300px; top: 660px;
   font-size: x-large;
 }
 
 
 .SprintOneLink{
   font-weight:500;
-  position:fixed; left: 60px; top: 100px;
+  position:fixed; left: 300px; top: 100px;
   font-size:large;
   width: 40%;
 }
 .SprintTwoLink{
   font-weight:500;
-  position:fixed; left: 60px; top: 250px;
+  position:fixed; left: 300px; top: 250px;
   font-size:large;
   width: 40%;
 }
 .SprintThreeLink{
   font-weight:500;
-  position:fixed; left: 60px; top: 400px;
+  position:fixed; left: 300px; top: 400px;
   font-size:large;
   width: 40%;
 }
 .SprintFourLink{
   font-weight:500;
-  position:fixed; left: 60px; top: 550px;
+  position:fixed; left: 300px; top: 550px;
+  font-size:large;
+  width: 40%;
+}
+.SprintFourLinkTwo{
+  font-weight:500;
+  position:fixed; left: 300px; top: 600px;
   font-size:large;
   width: 40%;
 }
 .SprintFiveLink{
   font-weight:500;
-  position:fixed; left: 60px; top: 700px;
+  position:fixed; left: 300px; top: 700px;
   font-size:large;
   width: 40%;
 }
@@ -85,7 +91,7 @@
     width: 35%;
     margin-top: 20px;
     height: 90vh;
-    position: relative; left: 800px;
+    position: relative; left: 900px;
   }
 .rusty{
   width: 20%;
@@ -103,17 +109,17 @@
 
 .Home{
   font-weight: bold;
-  position:fixed; left: 800px; top: 10px;
+  position:fixed; left: 900px; top: 10px;
   font-size: larger;
 }
 .Tech{
   font-weight: bold;
-  position:fixed; left: 1060px; top: 10px;
+  position:fixed; left: 1130px; top: 10px;
   font-size: larger;
 }
 .Core{
   font-weight: bold;
-  position:fixed; left: 1325px; top: 10px;
+  position:fixed; left: 1360px; top: 10px;
   font-size: larger;
 }
 div ul li {
