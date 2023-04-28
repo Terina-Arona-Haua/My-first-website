@@ -30,22 +30,22 @@
 }
 .SprintTwoHeader{
   font-weight: bold;
-  position:fixed; left: 300px; top: 210px;
+  position:fixed; left: 300px; top: 200px;
   font-size: x-large;
 }
 .SprintThreeHeader{
   font-weight: bold;
-  position:fixed; left: 300px; top: 360px;
+  position:fixed; left: 300px; top: 340px;
   font-size: x-large;
 }
 .SprintFourHeader{
   font-weight: bold;
-  position:fixed; left: 300px; top: 510px;
+  position:fixed; left: 300px; top: 480px;
   font-size: x-large;
 }
 .SprintFiveHeader{
   font-weight: bold;
-  position:fixed; left: 300px; top: 660px;
+  position:fixed; left: 300px; top: 610px;
   font-size: x-large;
 }
 
@@ -58,31 +58,31 @@
 }
 .SprintTwoLink{
   font-weight:500;
-  position:fixed; left: 300px; top: 250px;
+  position:fixed; left: 300px; top: 240px;
   font-size:large;
   width: 40%;
 }
 .SprintThreeLink{
   font-weight:500;
-  position:fixed; left: 300px; top: 400px;
+  position:fixed; left: 300px; top: 380px;
   font-size:large;
   width: 40%;
 }
 .SprintFourLink{
   font-weight:500;
-  position:fixed; left: 300px; top: 550px;
+  position:fixed; left: 300px; top: 520px;
   font-size:large;
   width: 40%;
 }
 .SprintFourLinkTwo{
   font-weight:500;
-  position:fixed; left: 300px; top: 600px;
+  position:fixed; left: 300px; top: 550px;
   font-size:large;
   width: 40%;
 }
 .SprintFiveLink{
   font-weight:500;
-  position:fixed; left: 300px; top: 700px;
+  position:fixed; left: 300px; top: 650px;
   font-size:large;
   width: 40%;
 }
