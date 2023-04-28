@@ -88,16 +88,16 @@
 
 
 .milomei{
-    width: 35%;
+    width: 30%;
     margin-top: 20px;
-    height: 90vh;
-    position: relative; left: 900px;
+    height: 80vh;
+    position: fixed; left: 900px;
   }
 .rusty{
-  width: 20%;
-  margin-top: 325px;
+  width: 18%;
+  margin-top: 290px;
   height: 45vh;
-  position:fixed; left: 150px;
+  position: fixed; left: 180px;
 }
 .margin{
   width: 35%;
@@ -114,12 +114,12 @@
 }
 .Tech{
   font-weight: bold;
-  position:fixed; left: 1130px; top: 10px;
+  position:fixed; left: 1090px; top: 10px;
   font-size: larger;
 }
 .Core{
   font-weight: bold;
-  position:fixed; left: 1360px; top: 10px;
+  position:fixed; left: 1280px; top: 10px;
   font-size: larger;
 }
 div ul li {
