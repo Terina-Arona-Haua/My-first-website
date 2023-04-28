@@ -9,7 +9,7 @@
 
 .AboutMeParagraph{
   font-weight:500;
-  position:fixed; left: 60px; top: 100px;
+  position:relative; left: 10%; top: 10%;
   font-size:large;
   text-align: center;
   width: 40%;
@@ -18,14 +18,14 @@
   font-size:large;
   font-weight: 100;
   width: 80%;
-  margin-top: 100px;
+  margin-top: 10%;
   text-align: center;
 }
 
 
 .SprintOneHeader{
   font-weight: bold;
-  position:fixed; left: 300px; top: 60px;
+  position:absolute; left: 20%; top: 10%;
   font-size: x-large;
 }
 .SprintTwoHeader{
@@ -90,9 +90,9 @@
 
 .milomei{
     width: 30%;
-    margin-top: 20px;
+    margin-top: 2.5%;
     height: 80vh;
-    position: fixed; left: 900px;
+    position: relative; left: 65%;
   }
 .rusty{
   width: 18%;
