@@ -1,16 +1,20 @@
 *{
   margin: 0;
-  padding: 0;
+  padding:0;
   font-family: sans-serif;
   color: lightpink ;
   background-color: antiquewhite;
+}
+
+h1{
+  padding-left: 1%;
 }
 
 /*Paragraphs*/
 
 .AboutMeParagraph{
   font-weight:500;
-  position:relative; left: 10%; top: 20%;
+  position:relative; left: 10%; top: 30%;
   font-size:large;
   text-align: center;
   width: 40%;
@@ -96,28 +100,24 @@
 /*Pictures*/
 
 .milomei{
-  width: 30%;
+  width: 25%;
   height: auto;
   float: right;
   margin: 0 0 2.5% 2.5%;
   }
 
 .rusty{
-  max-width: 18%;
+  max-width: 50%;
   height: auto;
-  float:left;
-  margin: 0 0 0% 0%;
+  margin: 0 auto;
+  padding: 5%
 }
 
 .margin{
-  max-width: 20%;
+  max-width: 30%;
   height: auto;
-  margin-top: auto;
-  margin-left: auto;
-  margin-right: auto;
-  text-align: center;
-  padding: top 5%;
-  padding-bottom: 5%;
+  margin: 0 auto;
+  padding: 5%
 }
 
 /*Nav Bar*/
@@ -126,6 +126,7 @@ nav ul{
  display:grid;
  grid-template-columns: repeat(4,1fr); 
  height: 5%;
+ padding: 1%
 }
 
  div ul li {
