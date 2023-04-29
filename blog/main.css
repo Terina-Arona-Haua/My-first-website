@@ -120,6 +120,15 @@ h1{
   padding: 5%
 }
 
+table {
+  border:1px solid palevioletred;
+  padding: 10px;
+}
+th, td{
+  border:1px solid palevioletred;
+  padding: 20px;
+}
+
 /*Nav Bar*/
 
 nav ul{
