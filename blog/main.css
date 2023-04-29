@@ -125,6 +125,7 @@ h1{
 nav ul{
  display:grid;
  grid-template-columns: repeat(4,1fr); 
+ font-weight: bold;
  height: 5%;
  padding: 1%
 }
