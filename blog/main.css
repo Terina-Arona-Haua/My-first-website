@@ -18,6 +18,7 @@ h1{
   font-size:large;
   text-align: center;
   width: 40%;
+  padding: 10px
 }
 .Paragraph{
   font-size:large;
@@ -28,73 +29,12 @@ h1{
   margin-right: auto;
   text-align: center;
   padding-bottom: 5%;
+  padding: 10px
 }
 
-/*Sprint Headers*/
-
-.SprintOneHeader{
-  font-weight: bold;
-  position:absolute; left: 20%; top: 10%;
-  font-size: x-large;
-}
-.SprintTwoHeader{
-  font-weight: bold;
-  position:absolute; left: 20%; top: 30%;
-  font-size: x-large;
-}
-.SprintThreeHeader{
-  font-weight: bold;
-  position:absolute; left: 20%; top: 50%;
-  font-size: x-large;
-}
-.SprintFourHeader{
-  font-weight: bold;
-  position:absolute; left: 20%; top: 70%;
-  font-size: x-large;
-}
-.SprintFiveHeader{
-  font-weight: bold;
-  position:absolute; left: 20%; top: 90%;
-  font-size: x-large;
-}
-
-/*Sprint Links*/
-
-.SprintOneLink{
-  font-weight:500;
-  position:absolute; left: 20%; top: 15%;
-  font-size:large;
-  width: 40%;
-}
-.SprintTwoLink{
-  font-weight:500;
-  position:absolute; left: 20%; top: 35%;
-  font-size:large;
-  width: 40%;
-}
-.SprintThreeLink{
-  font-weight:500;
-  position:absolute; left: 20%; top: 55%;
-  font-size:large;
-  width: 40%;
-}
-.SprintFourLink{
-  font-weight:500;
-  position:absolute; left: 20%; top: 75%;
-  font-size:large;
-  width: 40%;
-}
-.SprintFourLinkTwo{
-  font-weight:500;
-  position:absolute; left: 20%; top: 80%;
-  font-size:large;
-  width: 40%;
-}
-.SprintFiveLink{
-  font-weight:500;
-  position:absolute; left: 20%; top: 95%;
-  font-size:large;
-  width: 40%;
+.display {
+  margin: 0 10px;
+  padding: 10px;
 }
 
 /*Pictures*/
@@ -153,9 +93,25 @@ li {
   .container {
     width: 100%;
   }
+  
+  .display {
+    font-size: large;
+    padding-left: 0;
+  }
+  
+  .display li {
+    padding-left: 0;
+    list-style-type: none;
+  }
+  
+  h2 {
+    font-weight: bold;
+    padding: 15px;
+    padding-top: 0;
+  }
 }
 
- @media (min-width: 768px) and (max-width: 991px) {
+@media (min-width: 768px) and (max-width: 991px) {
   .container {
     width: 75%;
   }
